@@ -1,5 +1,5 @@
 {
-  "name": "File Store",
+  "name": "HMTD File Store Bot",
   "description": "Telegram bot to store your telegram files",
   "keywords": [
     "telegram",
@@ -7,10 +7,10 @@
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "logo": "https://telegra.ph/file/8f2b315e4120bbcb08f70.jpg",
+  "success_url": "https://telegram.dog/HMTD_File_Store_Bot",
+  "website": "https://github.com/KarthikUK7/TG-File-Store",
+  "repository": "https://github.com/KarthikUK7/TG-File-Store",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -29,7 +29,7 @@
       "value": ""
     },
     "UPDATE_CHANNEL": {
-      "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
+      "description": "Your bot updates channel like @HMTD_Tamil_Movies (username without @ for forcesub). (Leave empty it you don't want to add)",
       "value": "",
       "required": false
     },
